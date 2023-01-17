@@ -11,7 +11,7 @@
 <h1 align="center">Welcome to ThreeSeasons Hyderabad,India </h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address Maven Poll SCM </h3><br>
+	<h1><h3> Server Side IP Address Maven GithubWebHook </h3><br>
 
 <% 
 String ip = "";
