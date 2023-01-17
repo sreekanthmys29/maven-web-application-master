@@ -5,14 +5,13 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>ThreeSeasons- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to ThreeSeasons Hyderabad,India </h1>
 <hr>
 <br>
-	<h1><h3> Server Side IP Address </h3><br>
+	<h1><h3> Server Side IP Address Maven </h3><br>
 
 <% 
 String ip = "";
@@ -33,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/threeseasons.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Three seasons
+		Three seasons Sreekanth swathi Karthikapriyas Hyderabad
 		<br>
 	</span>
 </div>
