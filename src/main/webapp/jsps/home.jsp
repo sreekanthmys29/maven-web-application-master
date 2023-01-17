@@ -32,7 +32,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/threeseasons.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Three seasons Sreekanth swathi Karthikapriyas Hyderabad
+		Three seasons Hyderabad
 		<br>
 	</span>
 </div>
