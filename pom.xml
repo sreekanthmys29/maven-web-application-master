@@ -97,7 +97,7 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Releases Nexus Repository</name>
-	       <urlhttp://54.248.5.102:8081/repository/nexusrelease/</url>
+	       <url>http://54.248.5.102:8081/repository/nexusrelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
